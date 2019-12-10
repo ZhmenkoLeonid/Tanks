@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45c04200-a16a-46b7-90db-2d57691cf3b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/new-app/ServerSocker-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/FirstSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/ReqPar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/classes/FirstSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/classes/ReqPar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/classes/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/lib/bson-3.6.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/lib/javaee-web-api-6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/lib/mongodb-driver-3.6.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/lib/mongodb-driver-core-3.6.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/new-app/index.html" afterDir="false" />
+    <list default="true" id="45c04200-a16a-46b7-90db-2d57691cf3b7" name="Default Changelist" comment="b">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/ServerSocker-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/FirstSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/ReqPar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/classes/FirstSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/classes/ReqPar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/classes/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/lib/bson-3.6.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/lib/javaee-web-api-6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/lib/mongodb-driver-3.6.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/lib/mongodb-driver-core-3.6.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-app/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/maven-archiver/" />
@@ -62,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ReqPar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+            <state relative-caret-position="420">
+              <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,19 +74,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/FirstSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="293">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,8 +113,8 @@
         <option value="$PROJECT_DIR$/target/newapp1-RELEASE/index.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/FirstSet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/ReqPar.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/FirstSet.java" />
       </list>
     </option>
   </component>
@@ -199,23 +192,6 @@
             </path>
             <path>
               <item name="APP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APP" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APP" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APP" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-archiver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APP" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -230,7 +206,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575996410294" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575997212194" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ServerSocket" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.18639798" />
@@ -402,13 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575996306836</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="b">
+      <created>1575996454487</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1575996454487</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21275167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21275167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -417,7 +401,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,7 +409,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49932885" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3045326" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3045326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -472,29 +456,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/FirstSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/FirstSet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-179">
           <folding>
             <element signature="e#0#1537#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/ReqPar.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -505,10 +472,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/FirstSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/new-app/WEB-INF/FirstSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/ReqPar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="56" column="49" lean-forward="true" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/new-app/WEB-INF/ReqPar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ReqPar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+        <state relative-caret-position="420">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
