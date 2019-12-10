@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45c04200-a16a-46b7-90db-2d57691cf3b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FirstSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ReqPar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/maven-archiver/" />
@@ -50,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ReqPar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            <state relative-caret-position="284">
+              <caret line="64" column="87" selection-start-line="64" selection-start-column="87" selection-end-line="64" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -227,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575995622368" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575995804034" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ServerSocket" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.18639798" />
@@ -378,11 +375,19 @@
       <option name="project" value="LOCAL" />
       <updated>1575994962721</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="b">
+      <created>1575995650151</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575995650151</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21275167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -458,16 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ReqPar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/FirstSet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-179">
@@ -488,6 +483,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ReqPar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="64" column="87" selection-start-line="64" selection-start-column="87" selection-end-line="64" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
