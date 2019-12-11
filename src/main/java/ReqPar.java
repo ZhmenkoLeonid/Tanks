@@ -62,7 +62,8 @@ public class ReqPar extends HttpServlet {
         //MongoClient mongoClient = new MongoClient(uri);
         //MongoDatabase database = mongoClient.getDatabase("Tanks");
         //MongoCollection<Document> collection = database.getCollection("Parametrs");
-        writer.println("{\"coord\":"+SocketCommunication(direction)+"}");
+
+        writer.println("{\"coord\":"+SocketCommunication(direction)+"} 8:29");
         //int takeFromDB;
         /*try {
             if (direction.equals("D")) {

@@ -28,6 +28,7 @@ public class FirstSet extends HttpServlet {
 
         MongoDatabase database = mongoClient.getDatabase("Tanks");
         MongoCollection<Document> collection = database.getCollection("Parametrs");
+        String takeFromDB = collection.find().first().get("y").toString();
         if (x != null) {
             collection.updateOne(eq("_id", new ObjectId("5dc15093b2c0392d9ccd97b5")), set("x", Integer.parseInt(x))); // обновляем дб
         }
