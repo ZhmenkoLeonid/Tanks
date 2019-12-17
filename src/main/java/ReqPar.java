@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.net.Socket;
 
-import static com.mongodb.client.model.Filters.eq;
+import static com.mongodb.client.model.Filters.eq;j
 import static com.mongodb.client.model.Updates.set;
 
 @WebServlet({"/hello"})
@@ -63,7 +63,7 @@ public class ReqPar extends HttpServlet {
         //MongoDatabase database = mongoClient.getDatabase("Tanks");
         //MongoCollection<Document> collection = database.getCollection("Parametrs");
 
-        writer.println("{\"coord\":"+SocketCommunication(direction)+"} 8:29");
+        writer.println("{\"coord\":"+SocketCommunication(direction)+"}");
         //int takeFromDB;
         /*try {
             if (direction.equals("D")) {
