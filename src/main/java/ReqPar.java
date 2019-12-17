@@ -59,7 +59,7 @@ public class ReqPar extends HttpServlet {
         String direction = request.getParameter("direction");
         //MongoClient mongoClient = new MongoClient("192.168.99.100", 27017);
         //MongoClientURI uri = new MongoClientURI("mongodb://admin:admin@127.0.0.1:27017/test?readPreference=primary&authSource=admin&w=majority");
-        //MongoClient mongoClient = new MongoClient(uri);
+        //MongoClient mongoClient = new MongoClient(uri);11
         //MongoDatabase database = mongoClient.getDatabase("Tanks");
         //MongoCollection<Document> collection = database.getCollection("Parametrs");
 
